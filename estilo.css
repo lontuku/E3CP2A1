@@ -4,7 +4,7 @@ body{
 
 #header{
   text-align: center;
-  margin: 8rem;
+  margin: 2rem;
   top:-73px;
   position: relative;
 }
@@ -39,11 +39,7 @@ body{
 }
 
 @media(max-width: 480px){
-  #header img{
-   
-    right: 97%;
-    position: relative;
-  }
+  
   .col-sm-1{
     width: 10%;
   }
