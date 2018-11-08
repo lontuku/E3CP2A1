@@ -24,6 +24,9 @@ body{
 
 .titulo{
   font-weight: bolder;
+  color: orange;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+
 }
 
 .row{
